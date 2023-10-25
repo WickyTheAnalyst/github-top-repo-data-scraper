@@ -1,4 +1,4 @@
-# Project Documentation: GitHub Scraper
+# TopicTrekker: GitHub Repository Scraper
 
 ## Overview
 
